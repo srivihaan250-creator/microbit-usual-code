@@ -1,5 +1,6 @@
 {
     "name": "MICROBIT Usual code V3",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
